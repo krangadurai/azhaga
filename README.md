@@ -1,10 +1,10 @@
 # azhaga
-#Email verifcation
+# Email verifcation
 
-#Forget Password 
+# Forget Password 
 
-#razorpay  gat way include
+# razorpay  gat way include
 
-#order mail recieving 
+# order mail recieving 
 
 # user login
